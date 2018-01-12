@@ -1,2 +1,6 @@
-# cs2d-lua-tutorial
-Written lua development tutorial for the game CS2D in English and German
+# CS2D Lua Tutorial
+This is a Work-In-Progress, written lua tutorial for the video game CS2D.
+
+## Languages
+* [English](en/index.md)
+* [Deutsch / German](de/index.md)
