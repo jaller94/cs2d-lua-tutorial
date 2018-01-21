@@ -30,7 +30,7 @@ mv maps/*.txt maps/briefings
 rmdir maps/briefings
 ```
 
-### Validate Lua Skripts
+### Validate Lua Scripts
 To detect syntax errors before starting the server, use the official lua compiler.
 
 If you are using Atom, install the package `linter-lua`. You can do this in the settings or by running `apm install linter-lua`.
